@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #f0f0f0;
+}
+.container{
+    width: 500px;
+    height: 400px;
+    background-color: white;
+    border-radius: 10px;
+    margin: 0 auto;
+
+    margin-top: 200px;
+    box-shadow: 8px 5px 24px -9px rgba(0,0,0,0.95);
+    -webkit-box-shadow: 8px 5px 24px -9px rgba(0,0,0,0.95);
+    -moz-box-shadow: 8px 5px 24px -9px rgba(0,0,0,0.95);
+}
+h5{
+    padding: 1px;
+    margin-top: 20px;
+    margin-left: 40px;
+   
+}
+h1{
+    text-align: center;
+    margin-top: 20px;
+
+}
